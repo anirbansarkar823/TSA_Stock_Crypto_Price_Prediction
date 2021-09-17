@@ -1,0 +1,1 @@
+This repo is about method and techniques to predict stock prices
